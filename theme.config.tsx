@@ -4,7 +4,13 @@ import { DocsThemeConfig } from 'nextra-theme-docs'
 const config: DocsThemeConfig = {
   logo: <span>Kubera Capital Knowledge Base</span>,
   footer: {
-    text: 'Kubera Capital'
+    text: 'Kubera Capital',
+    
+  },
+  useNextSeoProps() {
+    return {
+      titleTemplate: '%s',
+    };
   },
 }
 
