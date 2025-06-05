@@ -11,8 +11,8 @@
     "type": "git",
     "url": "git+https://github.com/shuding/nextra-docs-template.git"
   },
-  "author": "Shu Ding <g@shud.in>",
-  "license": "MIT",
+  "author": "Kubera Capital",
+  "license": "",
   "bugs": {
     "url": "https://github.com/shuding/nextra-docs-template/issues"
   },

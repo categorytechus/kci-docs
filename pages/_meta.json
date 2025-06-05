@@ -1,7 +1,36 @@
 {
-  "index": "Introduction",
-  "another": "Another Page",
-  "advanced": "Advanced (A Folder)",
+  "index": {
+    "title": "Kubera Capital",
+    "description": "Kubera Capital is a real estate investment firm that specializes in multifamily and commercial properties. We focus on value-add opportunities and strategic investments to maximize returns for our investors.",
+    "keywords": "real estate, investment, multifamily, commercial, value-add, strategic investments, Kubera Capital",
+    "ogImage": "/images/og-image.png",
+    "ogType": "website",
+    "ogUrl": "https://kuberacap.com",
+    "ogTitle": "Kubera Capital - Real Estate Investment Firm",
+    "ogDescription": "Kubera Capital is a real estate investment firm that specializes in multifamily and commercial properties. We focus on value-add opportunities and strategic investments to maximize returns for our investors.",
+    "ogSiteName": "Kubera Capital",
+    "ogLocale": "en_US",
+    "ogImageAlt": "Kubera Capital Logo",
+    "ogImageWidth": 1200,
+    "ogImageHeight": 630,
+    "twitterCard": "summary_large_image",
+    "twitterSite": "@kuberacap",
+    "twitterTitle": "Kubera Capital - Real Estate Investment Firm",
+    "twitterDescription": "Kubera Capital is a real estate investment firm that specializes in multifamily and commercial properties. We focus on value-add opportunities and strategic investments to maximize returns for our investors.",
+    "twitterImage": "/images/og-image.png",
+    "twitterImageAlt": "Kubera Capital Logo",
+    "twitterImageWidth": 1200,
+    "twitterImageHeight": 630,
+    "favicon": "/favicon.ico",
+    "appleTouchIcon": "/apple-touch-icon.png",
+    "manifest": "/manifest.json",
+    "themeColor": "#ffffff",
+    "lang": "en",
+    "robots": "index, follow",
+    "canonical": "https://kuberacap.com"   
+  },
+  "real-estate": "Real Estate Investments",
+  "tax-advantage": "Tax Advantage Strategies",
   "about": {
     "title": "About",
     "type": "page"
@@ -9,7 +38,7 @@
   "contact": {
     "title": "Contact ↗",
     "type": "page",
-    "href": "https://twitter.com/shuding_",
+    "href": "https://kuberacap.com/contact",
     "newWindow": true
   }
 }
